@@ -1,0 +1,9 @@
+#komentar.komentar-mystyle{
+    background-color: #ddd;
+    padding: 30px; 
+    overflow-y: scroll; 
+    max-height: 400px;
+}
+#komentar.komentar-mystyle a{
+    text-decoration: none;
+}
