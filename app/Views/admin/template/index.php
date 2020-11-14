@@ -11,7 +11,7 @@
 
 <?= $this->include('admin/layout/footer') ?>
 
-<!-- </body> -->
+</body>
 
 <?= $this->include('admin/additional/js') ?>
 
